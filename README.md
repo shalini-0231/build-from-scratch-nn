@@ -20,7 +20,7 @@ The network learns by:
 
 ---
 
-## How the Learning Works (Simple Explanation)
+## How the Learning Works 
 1. Input values are given to the network
 2. The network multiplies inputs with weights
 3. An activation function is applied
@@ -33,5 +33,4 @@ The network learns by:
 ## How to Run the Project
 Make sure Python is installed, then run:
 
-```bash
 python neural_network_from_scratch.py
