@@ -19,6 +19,8 @@ The network learns by:
 - Repeating this process until the output improves
 
 ---
+## Architecture Diagram
+![Architecture Diagram](architecture.png)
 
 ## How the Learning Works 
 1. Input values are given to the network
